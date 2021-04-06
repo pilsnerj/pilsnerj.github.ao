@@ -2,6 +2,7 @@ html, body {
   padding: 0 0 0 0;
   margin: 0;
   font-family: 'helvetica', 'arial', 'sans';
+  background-color: lightblue;
 }
 
 h1,h2,h3,h4 {
